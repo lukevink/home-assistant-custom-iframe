@@ -91,4 +91,4 @@ class CustomIframeCard extends HTMLElement {
   }
 }
 
-customElements.define('custom-iframe-card', CustomIframeCard);
+customElements.define('custom-iframe', CustomIframeCard);
