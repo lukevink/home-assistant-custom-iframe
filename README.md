@@ -19,3 +19,7 @@ style:
   width: 50%
   height: 50%
 ```
+
+
+Used here in my own config to show my nightscout sugar levels:
+![preview.png](https://github.com/lukevink/home-assistant-custom-iframe/blob/master/preview.png?raw=true?raw=true)
